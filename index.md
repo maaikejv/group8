@@ -1,7 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: 0
 ---
+
+<img src="pexels-adrien-olichon-3884483.jpg" alt="Description of the image">
 
 ## 2024 Amsterdam Paralympics
 
