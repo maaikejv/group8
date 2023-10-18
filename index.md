@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Data 1 assignments MADE
 layout: home
 ---
 
