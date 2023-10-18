@@ -19,8 +19,8 @@ Water quality measurements should be taken 48 hours prior to the event, to make 
 
 ### question 1: 
 
-  <pre>
-```python
+<pre><code class=”python”> 
+
     import pandas as pd
 
     with open ("C:/Users/maaik/Documents/UNI/MSc MADE/Metropolitan Data/Assignments/Housing data/listings.csv", 'r') as ams_csv: 
@@ -33,9 +33,9 @@ Water quality measurements should be taken 48 hours prior to the event, to make 
     mean = bnb_df['price'].mean()
     median = bnb_df['price'].median()
     print(mean, median)
-```
-</pre>
+
+</code></pre>
 ---
-Go to Assignment 1: [Water]({{site.baseurl}}/assignment-1)
-Go to Assignment 2: [Energy]({{site.baseurl}}/assignment-2)
-Go to Assignment 4: [Transport]({{site.baseurl}}/assignment-4)
+Go to Assignment 1: [Water]({{site.baseurl}}/assignment-1)  
+Go to Assignment 2: [Energy]({{site.baseurl}}/assignment-2)  
+Go to Assignment 4: [Transport]({{site.baseurl}}/assignment-4)  
