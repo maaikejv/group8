@@ -17,7 +17,7 @@ Based on our research, not all canals are consistently monitored, so data availa
 
 Water quality measurements should be taken 48 hours prior to the event, to make sure adequate advice can be given on the health risks taken by the participants. Next to that, the water temperature should be measured in the middle of the course two hours prior to the event to make sure it is sufficient for the event to take place. 
 
-> What do Winston Churchill, the Beatles and Nelson Mandela have in common?
+> What do Winston Churchill, the Beatles and Nelson Mandela have in common?  
 > They have all been on a canal cruise through the Amsterdam canals!
 
 ## Useful data
