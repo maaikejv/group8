@@ -17,7 +17,7 @@ A proposal by Dana Spataru, Maaike Jansen Venneboer & Bente Janssens
 <div style="display:flex;">
     <img src="julian-z1f9SPy4Mok-unsplash.jpg" alt="Image 1" style="width: 33%;">
     <img src="julian-z1f9SPy4Mok-unsplash.jpg" alt="Image 2" style="width: 33%;">
-    <img src="julian-z1f9SPy4Mok-unsplash.jpg" alt="Image 3" style="width: 33%;>
+    <img src="julian-z1f9SPy4Mok-unsplash.jpg" alt="Image 2" style="width: 33%;">
 </div>
 
 
