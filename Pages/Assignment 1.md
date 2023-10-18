@@ -17,6 +17,6 @@ Water quality measurements should be taken 48 hours prior to the event, to make 
 
 ## Useful data
 
-Go to Assignment 2: [Energy]({{site.baseurl}}/assignment-2)
-Go to Assignment 3: [Housing]({{site.baseurl}}/assignment-3)
+Go to Assignment 2: [Energy]({{site.baseurl}}/assignment-2)  
+Go to Assignment 3: [Housing]({{site.baseurl}}/assignment-3)  
 Go to Assignment 4: [Transport]({{site.baseurl}}/assignment-4)
