@@ -14,8 +14,10 @@ Based on our research, not all canals are consistently monitored, so data availa
 
 Water quality measurements should be taken 48 hours prior to the event, to make sure adequate advice can be given on the health risks taken by the participants. Next to that, the water temperature should be measured in the middle of the course two hours prior to the event to make sure it is sufficient for the event to take place. 
 
-With the following link, you can download the file we used for this assignment
+### Data used
+With the following link, you can download the file we used for this assignment  
 <a href="files/listings.csv" download="listings.csv">Download CSV AirBnB data</a>
+
 ## Useful data
 
 
