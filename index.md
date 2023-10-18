@@ -15,9 +15,9 @@ With the following assignments, the feasibility and conditions of this event wer
 A proposal by Dana Spataru, Maaike Jansen Venneboer & Bente Janssens
 
 <div style="display:flex;">
-    <img src="julian-z1f9SPy4Mok-unsplash.jpg" alt="Image 1" style="margin-right:10px;">
-    <img src="julian-z1f9SPy4Mok-unsplash.jpg" alt="Image 2" style="margin-right:10px;">
-    <img src="julian-z1f9SPy4Mok-unsplash.jpg" alt="Image 3">
+    <img src="julian-z1f9SPy4Mok-unsplash.jpg" alt="Image 1" style="width: 33%;">
+    <img src="julian-z1f9SPy4Mok-unsplash.jpg" alt="Image 2" style="width: 33%;">
+    <img src="julian-z1f9SPy4Mok-unsplash.jpg" alt="Image 3" style="width: 33%;>
 </div>
 
 
