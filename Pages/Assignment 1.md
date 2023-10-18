@@ -2,8 +2,10 @@
 layout: page
 title: Assignment 1 Water
 permalink: /assignment-1
-nav_order: 1
+nav_order: 2
 ---
+
+<img src="ethan-hu-gP2PNn1fCiU-unsplash.jpg" alt="Amsterdam canals">
 
 ## Water and the Amsterdam Paralympics
 This assignment...
