@@ -13,3 +13,6 @@ The  City of Amsterdam wants to host a 5km. open water swimming event through th
 With the following assignments, the feasibility and conditions of this event were tested and advise to give an advise.
 
 A proposal by Dana Spataru, Maaike Jansen Venneboer & Bente Janssens
+
+<h1 style="color: #ff0000;">Red Heading</h1>
+
