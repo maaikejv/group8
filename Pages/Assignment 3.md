@@ -14,6 +14,23 @@ Based on our research, not all canals are consistently monitored, so data availa
 Water quality measurements should be taken 48 hours prior to the event, to make sure adequate advice can be given on the health risks taken by the participants. Next to that, the water temperature should be measured in the middle of the course two hours prior to the event to make sure it is sufficient for the event to take place. 
 
 ## Useful data
+
+
+question 1: 
+<pre><code class=”python”> 
+import pandas as pd
+
+with open ("C:/Users/maaik/Documents/UNI/MSc MADE/Metropolitan Data/Assignments/Housing data/listings.csv", 'r') as ams_csv: 
+    bnb_df = pd.read_csv(ams_csv) 
+
+rows = bnb_df['price'].size
+total_price = bnb_df['price'].sum()
+average = total_price / rows
+
+mean = bnb_df['price'].mean()
+median = bnb_df['price'].median()
+print(mean, median)
+</code></pre>
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
