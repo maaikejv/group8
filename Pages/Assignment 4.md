@@ -157,11 +157,11 @@ At the starting point the closest tram stop is at Muziekgebouw Bimhuis, where li
 
 Since there were no data sets online about the bus stops, the closest stop was found in Google Maps. It is clear that the closest stop is at Kattenburgerstraat. 
 
-img src="OV1.png" alt="OV1">
+<img src="OV1.png" alt="OV1">
 
 *Graph 4: Tram line 26, closest tram line near the starting point (marked in green)(GVB, 2023)*
 
-img src="OV2.png" alt="OV2">
+<img src="OV2.png" alt="OV2">
 
 *Graph 5: Bus line 43, closest bus line near the starting point (marked in green)(GVB, 2023)*
 
@@ -170,11 +170,11 @@ For the finish point the closest tram stop is at Keizersgracht, where line 4 run
 
 The closest bus stop and its line is again found in Google Maps. The closest bus stop to finish line is at Beukenplein, where line 37 runs. This is quite far away, because there are no busses in the city center during the day, since there are tram lines everywhere. 
 
-img src="OV3.png" alt="OV3">
+<img src="OV3.png" alt="OV3">
 
 *Graph 6: Tram line 4, tram line near the finish point (marked in red)(GVB, 2023)*
 
-img src="OV4.png" alt="OV4">
+<img src="OV4.png" alt="OV4">
 
 *Graph 7: Bus line 37, closest bus line near the finish point (marked in red)(GVB, 2023)*
 
