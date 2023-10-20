@@ -52,7 +52,7 @@ the_map
 
 the_map.save("map.html")
 ```
-<img src="Map1.jpg" alt="Map1">
+<img src="Map1.png" alt="Map1">
 
 *Graph 1: The swimming course plotted*
 
@@ -120,7 +120,7 @@ latitude  longitude  elevation                             time
 12  52.364201   4.889747       7.30 2023-10-16 12:51:13.221000+00:00
 13  52.363389   4.895366       8.13 2023-10-16 12:51:14.769000+00:00
 
-<img src="Map2.jpg" alt="Map2">
+<img src="Map2.png" alt="Map2">
 
 *Graph 2: The centre node of the swimming course plotted*
 
@@ -129,7 +129,7 @@ The center point gives us a street next to the canals in the middle of the city 
 
 A headquarters on the water seems like a logical place, at the Blauwbrug for instance. Here it is also easy to move to other points along the course, since you are already on the same road. 
 
-<img src="Map3.jpg" alt="Map3">
+<img src="Map3.png" alt="Map3">
 
 *Graph 3: Location for the Event Headquarters*
 
