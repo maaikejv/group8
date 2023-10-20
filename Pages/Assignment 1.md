@@ -39,10 +39,13 @@ According to the Open water swimming guid of Fina (2022), there are a number of 
 The following datasets provide the data needed to draw up the advice:  
 
 **1. Historical weather data for Amsterdam, Netherlands (Visual Crossing Corporation, 2023)**
+
 To understand the weather patterns in Amsterdam in the month of May and assess if they are suitable for the event, we looked at the Visual Crossing weather query builder and retrieved minimum and maximum temperature, feels like temperature, precipitation, dew, humidity data for Amsterdam over the last 10 years from May 01-May 31. 
 
 **2. Infection risks of city canal swimming events in the Netherlands in 2016 / Dataset of Utrecht SingelSwim and Amsterdam City Swim (Hintaran et al., 2018)**
+
 Looking for information and the health risks associated to swimming in the canals in Amsterdam, we learned that the Public Health Service (PHS) investigated two city canal swimming events in 2015 and another report from 2016 tried to determine the risks of infection during two urban swimming events, the Utrecht Singel Swim 2016 (USS) and the Amsterdam City Swim 2016 (ACS). This last report contains useful information related to 1579 participants in ACS, from age, weight, food and drinks consumption during the event, health symptoms, swimming patterns and so on. The report concluded based on this data that participants of events in urban canals in the Netherlands could be at a higher risk for acute gastrointestinal illness than those not participating.  
+
 
 **3. Grachtenmonitor 2022 (Gemeente Amsterdam, 2022a)**
 The Grachtenmonitor 2022 report provides useful data about sailing movements on the canals of Amsterdam, broken down into pleasure and recreational shipping, passenger shipping and water transport. The report contains information about which times and which days it is busy in which places. This is useful when determining a date, time and place for the swimming competition, because it allows you to plan a moment and route that will interfere with the fewest boats. The data is mostly provided in tables and figures. To make the data workable, it should be put into excel files so that it can be used with pandas in python.  
