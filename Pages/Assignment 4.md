@@ -34,7 +34,7 @@ The following steps are taken to plot the swimming route in Phyton
 2. Then a DataFrame is made out of the GPX file, with longitude, latitude, elevation and time in the columns.
 3. Out of the longitude and latitude coordinates of the nodes, the average is calculated giving us the centre.
 
-The following code is ised to plot this map:
+The following code is used to plot this map:
 
 ```
 from gpxplotter import read_gpx_file, create_folium_map, add_segment_to_map
@@ -133,7 +133,7 @@ A headquarters on the water seems like a logical place, at the Blauwbrug for ins
 
 *Graph 3: Location for the Event Headquarters*
 
-###Closest tram and bus stops at the start and finish and capacity
+### Closest tram and bus stops at the start and finish and capacity
 **Note**: only data about the metro and tram stops in Amsterdam was found, therefore only the closest tram stop is coded. 
 1. For this, we first find the start and finish coordinates
 2. The coordinates of the bus and tram stops are imported and processed. https://maps.amsterdam.nl/open_geodata/
