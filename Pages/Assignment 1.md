@@ -68,7 +68,8 @@ This WMS file shows the navigability of the waterway network in the Netherlands.
 ## Specification of the data 
 The table below provides more information about the type of data the aforementioned datasets contain. 
 
-| # | Is it human readable? (Y/N) | Is it numerical? | Which python data library could read it? | Is it geodata? (Y/N) | Is it temporal? (interval) |
+| # | Data format | Is it human readable? (Y/N) | Is it numerical? | Which python data library could read it? | Is it geodata? (Y/N) | Is it temporal? (interval) |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: 
 | 1 | JSON, CSV, XLS | Y | Y | Pandas | N | 01.05-31.05 2013-2023 |
 
 Go to Assignment 2: [Energy]({{site.baseurl}}/assignment-2)  
