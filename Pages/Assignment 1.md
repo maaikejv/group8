@@ -71,6 +71,16 @@ The table below provides more information about the type of data the aforementio
 | # | Data format | Is it human readable? (Y/N) | Is it numerical? | Which python data library could read it? | Is it geodata? (Y/N) | Is it temporal? (interval) |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: 
 | 1 | JSON, CSV, XLS | Y | Y | Pandas | N | 01.05-31.05 2013-2023 |
+| 2 | XLS | Y | Partly | Pandas | N | N |
+| 3 | Report | Y | Partly | Pandas (after putting in excel | N | Oct 2021 - Oct 2022 |
+| 4 | Spatial data / thematic map | Y | Partly | GeoPandas or GDAL/OGR* | Y: points | N |
+| 5 | XLS | Y | Partly | Pandas | N | N |
+| 6 | Spatial data / thematic map | N | Partly | GeoPandas or GDAL/OGR* | Y: points | N |
+| 7 | Geodata | N | N | GeoPandas or GDAL/OGR* | Y: points | N |
+| 8 | WFS, GEOJSON & CSV (XML/RDF) | N | N | GeoPandas or GDAL/OGR* | Y: points and lines | N |
+| 9 | WMS | Y | N | GeoPandas or GDAL/OGR* | Y"lines | N|
+
+*The GIS-data is readable with the use of for instance QGIS. Within this program the points in the researched area can be selected and extracted into a CSV file. This CSV file can then be read like other CSV files above. 
 
 Go to Assignment 2: [Energy]({{site.baseurl}}/assignment-2)  
 Go to Assignment 3: [Housing]({{site.baseurl}}/assignment-3)  
