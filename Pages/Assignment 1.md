@@ -10,12 +10,12 @@ nav_order: 2
 ## Water and the Amsterdam Paralympics
 Many requirements are important to include in the Amsterdam Paralympics' organization. Among other things, the event cannot have an impact on commercial water transport and a minimum impact on canal boats’ routes. In addition, it is crucial to get an idea of the pollution level of the canals. On this page, we will research whether there is sufficient data available to ensure the feasibility of the Amsterdam Paralympics from an environmental and safety perspective.  
 
-## Conclusions
+### Conclusions
 Based on our research, not all canals are consistently monitored, so data available is limited. According to the Water Framework Directive (Rijksoverheid, 2023) report on monitoring surface water from 2020, the water quality is either inadequate or poor in a significant number of the canals, in 2019 [dataset 5: (Gemeente Amsterdam, 2021)]. Further information is required to understand whether safe routes of 5km can be planned for an open swim event which should have no impact on commercial shipping and little impact on the canal traffic overall. A limited set of data also shows that swimming in the canals increases the risk of acute gastrointestinal illness [dataset 2: (Hintaran et al., 2018)].  
 
 Water quality measurements should be taken 48 hours prior to the event, to make sure adequate advice can be given on the health risks taken by the participants. Next to that, the water temperature should be measured in the middle of the course two hours prior to the event to make sure it is sufficient for the event to take place.  
 
-## Useful data
+### Useful data
 We decided that the following information will be useful to draw-up an advice for the municipality of Amsterdam on the feasibility of the Paralympics from the perspective of the safety of the partaking athletes from an environmental perspective: 
 * Water quality and ecological conditions - pollution levels  
 * Medical data sets - to identify any specific health concerns 
@@ -35,7 +35,7 @@ According to the Open water swimming guid of Fina (2022), there are a number of 
 * Conditions underfoot at start and exit  
 * Sites for medical evacuation along the course
 
-## Functional datasets 
+### Functional datasets 
 The following datasets provide the data needed to draw up the advice:  
 
 **1. Historical weather data for Amsterdam, Netherlands (Visual Crossing Corporation, 2023)**  
@@ -65,7 +65,7 @@ This dataset with geospatial data shows where the sewage system of Waternet is s
 **9. Waterway Network Data Service - Navigability (Rijkswaterstaat, 2023)**  
 This WMS file shows the navigability of the waterway network in the Netherlands. In Amsterdam it shows which canals cannot be used by large boats, therefore the swimming event would have less impact on ongoing traffic in these canals. It does not include commercial canal boats, which need to be taken into account as well. 
 
-## Specification of the data 
+### Specification of the data 
 The table below provides more information about the type of data the aforementioned datasets contain. 
 
 | # | Data format | Is it human readable? (Y/N) | Is it numerical? | Which python data library could read it? | Is it geodata? (Y/N) | Is it temporal? (interval) |
@@ -82,7 +82,30 @@ The table below provides more information about the type of data the aforementio
 
 *The GIS-data is readable with the use of for instance QGIS. Within this program the points in the researched area can be selected and extracted into a CSV file. This CSV file can then be read like other CSV files above. 
 
+### Datasets/references
+Fina. (2022). Open Water Swimming Guide - 2022 edition. In World Aquatics. Fédération Internationale de Natation. Retrieved September 27, 2023, from https://resources.fina.org/fina/document/2022/03/14/357ae477-02a3-44ad-bdf6-0668c3fc7d39/OWS-Guide_2022_Final.pdf 
 
+Gemeente Amsterdam. (n.d.). Data en informatie. Data.Amsterdam. Retrieved October 4, 2023, from https://data.amsterdam.nl/data/?center=52.3731295%2C4.8933141&legenda=true&modus=kaart  
+
+Gemeente Amsterdam. (2021, November 9). Water in Amsterdam: Meetresultaten kwaliteitsonderzoek oppervlaktewater, 2019. Data.Amsterdam. Retrieved October 4, 2023, from https://data.amsterdam.nl/datasets/lAqjIsj-_a7psg/water-in-amsterdam/ 
+
+Gemeente Amsterdam. (2022a, October 1). Grachtenmonitor 2022. Openresearch.Amsterdam. Retrieved September 27, 2023, from https://openresearch.amsterdam/nl/page/92981/grachtenmonitor-2022 
+
+Gemeente Amsterdam. (2022b, November 25). Rioolnetwerk Waternet. overheid.nl. Retrieved September 27, 2023, from https://data.overheid.nl/dataset/xnhveaeyheww2w 
+
+Hintaran, A. D., Kliffen, S. J., Lodder, W. J., Pijnacker, R., Brandwagt, D., Van Der Bij, A. K., Siedenburg, E., Sonder, G. J., Fanoy, E., & Joosten, R. (2018). Infection risks of city canal swimming events in the Netherlands in 2016. PLOS ONE, 13(7), e0200616. https://doi.org/10.1371/journal.pone.0200616 
+
+Mobycon. (2022, September 2). Herhalingsonderzoek gebruik Amsterdams binnenwater aug 2022. Openresearch.Amsterdam. Retrieved September 27, 2023, from https://openresearch.amsterdam/nl/page/92983/herhalingsonderzoek-gebruik-amsterdams-binnenwater-aug-2022 
+
+Rijksoverheid. (2023). Kaderrichtlijn Water. Rijksoverheid. Retrieved October 4, 2023, from https://www.helpdeskwater.nl/onderwerpen/wetgeving-beleid/kaderrichtlijn-water/  
+
+Rijkswaterstaat. (2023, March 1). Dataset: Vaarweg Netwerk Data Service - bevaarbaarheid. Pdok. Retrieved October 4, 2023, from https://www.pdok.nl/ogc-webservices/-/article/vaarweg-informatie-nederland-vin- 
+
+Visual Crossing Corporation. (2023, October 4). Historical weather data for Amsterdam, Netherlands. Visual Crossing. Retrieved October 4, 2023, from https://www.visualcrossing.com/weather-history/Amsterdam,Netherlands/met%20ric/monthtodate 
+
+Waterschap AGV. (2023, September 27). Water in kaart. Waterschap Amstel, Gooi En Vecht. Retrieved September 27, 2023, from https://www.agv.nl/onze-taken/schoon-water/waterkwaliteit/ 
+
+---
 Go to Assignment 2: [Energy]({{site.baseurl}}/assignment-2)  
 Go to Assignment 3: [Housing]({{site.baseurl}}/assignment-3)  
 Go to Assignment 4: [Transport]({{site.baseurl}}/assignment-4)
