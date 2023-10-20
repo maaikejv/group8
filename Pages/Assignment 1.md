@@ -38,8 +38,7 @@ According to the Open water swimming guid of Fina (2022), there are a number of 
 ## Functional datasets 
 The following datasets provide the data needed to draw up the advice:  
 
-**1. Historical weather data for Amsterdam, Netherlands (Visual Crossing Corporation, 2023)**
-
+**1. Historical weather data for Amsterdam, Netherlands (Visual Crossing Corporation, 2023)**\n
 To understand the weather patterns in Amsterdam in the month of May and assess if they are suitable for the event, we looked at the Visual Crossing weather query builder and retrieved minimum and maximum temperature, feels like temperature, precipitation, dew, humidity data for Amsterdam over the last 10 years from May 01-May 31. 
 
 **2. Infection risks of city canal swimming events in the Netherlands in 2016 / Dataset of Utrecht SingelSwim and Amsterdam City Swim (Hintaran et al., 2018)**
