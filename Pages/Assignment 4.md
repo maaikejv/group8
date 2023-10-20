@@ -8,7 +8,7 @@ nav_order: 5
 <img src="stijn-4fQAMZNaGUo-unsplash.jpg" alt="Public transport Amsterdam">
 
 ## Transport and the Amsterdam Paralympics  
-On this page, we propose a suitable start point, finish point and route for the canal smimming event in Amsterdam. The route will be 5km and also a suitable, central location for the Event Headquarters will be determined. Available and suitable tram and bus connections for the visitors are mapped. Finally, it is found that there are countless cafes and restaurants nearby for visitors. Below you will find all findings mapped out.
+On this page, we propose a suitable start point, finish point and route for the canal smimming event in Amsterdam. The route will be 5km and also a suitable, central location for the Event Headquarters will be determined. Available and suitable tram and bus connections for the visitors are mapped. Finally, it is found that there are 313 cafes and restaurants nearby for visitors. Below you will find all findings mapped out.
 
 ### Data used
 With the following link, you can download the file we used for this assignment  
@@ -266,22 +266,44 @@ if not result.nodes:
 
 The following cafes ad restaurants are found:
 
-Restaurant or Cafe: El Torado Grill, Location: (52.3666908, 4.8947159) 
-Restaurant or Cafe: Rain, Location: (52.3657475, 4.8972735) 
-Restaurant or Cafe: De Jaren, Location: (52.3680203, 4.8953278) 
-Restaurant or Cafe: Water en Brood, Location: (52.3641405, 4.9058121) 
-Restaurant or Cafe: La Margarita, Location: (52.3692724, 4.8930721) 
-Restaurant or Cafe: La Place, Location: (52.3676426, 4.8924135) 
-Restaurant or Cafe: Blue Amsterdam, Location: (52.3673568, 4.8915534) 
-Restaurant or Cafe: Screaming Beans, Location: (52.3632827, 4.8986443) 
-Restaurant or Cafe: Soenda Kelapa, Location: (52.3630054, 4.8987669) 
-Restaurant or Cafe: Kramer, Location: (52.3654467, 4.8926577) 
-Restaurant or Cafe: Bollywood Indian Restaurant, Location: (52.3639694, 4.8844033) 
-Restaurant or Cafe: Puri Mas Indonesisch Restaurant, Location: (52.3641036, 4.8845382) 
+Restaurant or Cafe: El Torado Grill, Location: (52.3666908, 4.8947159)   
+Restaurant or Cafe: Rain, Location: (52.3657475, 4.8972735)   
+Restaurant or Cafe: De Jaren, Location: (52.3680203, 4.8953278)   
+Restaurant or Cafe: Water en Brood, Location: (52.3641405, 4.9058121)   
+Restaurant or Cafe: La Margarita, Location: (52.3692724, 4.8930721)   
+Restaurant or Cafe: La Place, Location: (52.3676426, 4.8924135)   
+Restaurant or Cafe: Blue Amsterdam, Location: (52.3673568, 4.8915534)   
+Restaurant or Cafe: Screaming Beans, Location: (52.3632827, 4.8986443)   
+Restaurant or Cafe: Soenda Kelapa, Location: (52.3630054, 4.8987669)   
+Restaurant or Cafe: Kramer, Location: (52.3654467, 4.8926577)   
+Restaurant or Cafe: Bollywood Indian Restaurant, Location: (52.3639694, 4.8844033)   
+Restaurant or Cafe: Puri Mas Indonesisch Restaurant, Location: (52.3641036, 4.8845382)     
 And many, many more ...
 
-### References
+In total 313 restairants and cafes are found. 
 
+### References
+GVB. (n.d.-a). Onze bussen. Over GVB. Retrieved 16 October 2023, from https://over.gvb.nl/ov-in-amsterdam/voer-en-vaartuigen/bus-in-cijfers/  
+
+GVB. (n.d.-b). Onze trams. Over GVB. Retrieved 16 October 2023, from https://over.gvb.nl/ov-in-amsterdam/voer-en-vaartuigen/tram-in-cijfers/  
+
+GVB. (2023). Haltes | GVB. https://reisinfo.gvb.nl/nl/haltes 
+
+OpenStreetMap. (2023). OpenStreetMap. OpenStreetMap. Retrieved 16 October 2023, from https://www.openstreetmap.org/  
+
+Gboeing. (2023, October). Gallery of OSMnx tutorials, usage examples, and feature demonstations. GitHub. Retrieved October 20, 2023, from https://github.com/gboeing/osmnx-examples 
+
+Hoffman, M. (2021, October). Centrality. Bookdown. Retrieved October 20, 2023, from https://bookdown.org/markhoff/social_network_analysis/centrality.html#closeness-centrality 
+
+NetworkX. (2023). Centrality. Retrieved October 20, 2023, from https://networkx.org/documentation/stable/reference/algorithms/centrality.html 
+
+OSMnx. (2023). User Reference. Retrieved October 20, 2023, from https://osmnx.readthedocs.io/en/stable/user-reference.html# 
+
+Python overpass API. (2023). Examples. Python Overpass API. Retrieved October 20, 2023, from https://python-overpy.readthedocs.io/en/latest/example.html 
+
+Stack Overflow. (2018, September). How to get a {{geocodeArea: xxx }} query to work in python using overpy? Retrieved October 20, 2023, from https://stackoverflow.com/questions/52236655/how-to-get-a-geocodearea-xxx-query-to-work-in-python-using-overpy 
+
+Stack Overflow. (2023, May). Overpass API: query for counting amenity of specified type around set of lat lons. Retrieved October 20, 2023, from https://stackoverflow.com/questions/72192572/overpass-api-query-for-counting-amenity-of-specified-type-around-set-of-lat-lon 
 
 ---
 Go to Assignment 1: [Water]({{site.baseurl}}/assignment-1)  
