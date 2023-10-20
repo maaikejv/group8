@@ -133,6 +133,45 @@ apartment_count = ams_df[ams_df['street'] == most_common_street].shape[0]
 
 print(f"The street in Amsterdam with the most Airbnb apartments is '{most_common_street}' with {apartment_count} apartments.")
 ```
+
+**Airbnb as normal housing**  
+To cross reference both datasets and find out which AirBnB apartments are also used as normal housing, the addresses of the AirBnB apartments need to be compared to the addresses of the BBGA. This is not possible, since the BBGA dataset consists of only zoomed out levels of Amsterdam, and not exact addresses (Stadsdelen, GGW gebieden, Wijken, Buurten). Next to that, the BBGA dataset does not include variables which can either 100% exclude the whole neighborhood (Stadsdelen, GGW gebieden, Wijken, Buurten) being normal housing, or 100% include them being normal housing. 
+
+If this was the case, it could have been possible to convert the longitude and latitude coordinates from the AirBnB dataset to ‘Wijken’, ‘Buurten’ (possibly with the help of postal codes), and then the two datasets could be compared. However, it is very likely that there will be a lot of AirBnB apartments which cannot be categorized in these 100% including or excluding normal houses, which will have a lot of apartments with its ‘bestemmingsplan’ remaining unknown. 
+
+**Additional hotel rooms to ensure all the visitors of a place to sleep**  
+The event will be attended by 30.000 tourists. For this question we only consider that the AirBnBs will be used for overnight stays for the event, since we have the data for this. There are 8386 AirBnBs in Amsterdam (index of the DataFrame of the AirBnB listing CSV). It is unclear from the data in the AirBnB listing file how many people a listing can fit, so it is assumed that the average of people per AirBnB is 2. We assume that the average number of people per hotel room is 2.
+
+```
+people = 8386 * 2  
+print(f"The number of people already accomodated is {int(people)}") 
+need_room = 30000 – people 
+print(f"The number of people who still need a room is {int(need_room)}") 
+rooms = need_room / 2  
+print(f"The number of hotel rooms which is needed for the event is {int(rooms)}")
+
+The number of people already accommodated is 16.772  
+The number of people who still need a room is 13.228  
+The number of hotel rooms which is needed for the event is 6.614 
+```
+
+**Different licenses used for Airbnbs in Amsterdam**  
+In the last column of the AirBnB listings the licenses are visible. The distinct values can be counted, using the unique function for the DataFrame. 
+
+```
+import pandas as pd  
+
+with open ("C:/Users/maaik/Documents/UNI/MSc MADE/Metropolitan Data/Assignments/Housing data/listings.csv", 'r') as ams_csv:  
+    ams_df = pd.read_csv(ams_csv) 
+
+# Count number of unique values in license column  
+ams_df['license'].nunique()
+
+7288 different licenses are used 
+```
+
+
+---
 Go to Assignment 1: [Water]({{site.baseurl}}/assignment-1)  
 Go to Assignment 2: [Energy]({{site.baseurl}}/assignment-2)  
 Go to Assignment 4: [Transport]({{site.baseurl}}/assignment-4)
