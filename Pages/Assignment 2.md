@@ -75,7 +75,7 @@ In total we estimate to need 20 boats for approximately 500 participants. Next t
 **Renewable energy for the Paralympics**  
 In this paragraph we will determine how many solar panels or wind turbines will be needed for the Paralympics, considering only green energy can be used.  
 
-Half of the boats needed are there for safety reasons, so the average distance a boat will sail is estimated on 15 kilometres. With 20 boats, the total energy needed is 20 * 15km* 1,9kWh = **570 kWh for one day of the event, including one race.** 
+Half of the boats needed are there for safety reasons, so the average distance a boat will sail is estimated on 15 kilometres. With 20 boats, the total energy needed is 20 * 15km* 1,9kWh = 570 kWh for one day of the event, including one race.
 
 A wind turbine with the power of 2 or 3 Megawatts can generate 6.500.000 kWh per year, in theory (Gaslicht.com, 2023). This would be 17.808 kWh per day. This would be 30 times more than needed for the 20 boats. 
 
@@ -101,7 +101,7 @@ Beedham, M. (2020, March 4). Almost all Amsterdam’s commercial boats are now e
 
 Fina. (2022). Open Water Swimming Guide - 2022 edition. In World Aquatics. Fédération 	Internationale de Natation. Retrieved October 8, 2023, from 	https://resources.fina.org/fina/document/2022/03/14/357ae477-02a3-44ad-bdf6-0668c3fc7d39/OWS-Guide_2022_Final.pdf 
 
-Gemeente Amsterdam. (2020). Nota Varen | Deel 2. Retrieved October 17, 2023, from https://assets.amsterdam.nl/publish/pages/1018385/nota_varen_deel_2_def.pdf 
+Gemeente Amsterdam. (2020). Nota Varen - Deel 2. Retrieved October 17, 2023, from https://assets.amsterdam.nl/publish/pages/1018385/nota_varen_deel_2_def.pdf 
 
 Gemeente Amsterdam. (2022, October 1). Grachtenmonitor 2022. Openresearch.Amsterdam. Retrieved October 8, 2023, from https://openresearch.amsterdam/nl/page/92981/grachtenmonitor-2022 
 
