@@ -8,12 +8,8 @@ nav_order: 5
 <img src="stijn-4fQAMZNaGUo-unsplash.jpg" alt="Public transport Amsterdam">
 
 ## Transport and the Amsterdam Paralympics  
-On this page, we propose a suitable route for the canal smimming event in Amsterdam. The route will be 5km and also a suitable location for the Event Headquarters will be proposed. 
+On this page, we propose a suitable start point, finish point and route for the canal smimming event in Amsterdam. The route will be 5km and also a suitable, central location for the Event Headquarters will be determined. Available and suitable tram and bus connections for the visitors are mapped. Finally, it is found that there are countless cafes and restaurants nearby for visitors. Below you will find all findings mapped out.
 
-### Conclusions and recommendations
- text text 
-
- 
 ### Data used
 With the following link, you can download the file we used for this assignment  
 <a href="files/TRAMMETRO_PUNTEN_2022.csv" download="TRAMMETRO_PUNTEN_2022.csv">Download CSV Trams and Metro's Amsterdam</a>
@@ -154,18 +150,18 @@ At the finish point, the closest tram stop is at Keizersgracht, where one line c
 Bus  
 The closest stop to the finish line is Beukenplein. The buses have 105 standing places at maximum capacity (GVB, n.d.-a). There will be 6 busses per hour, which will transport 6*105=630 people to and from the starting point within one hour. 
 
-### Corressponding bus and tram lines and their route
+### Corresponding bus and tram lines and their route
 
 **Starting pont**  
 At the starting point the closest tram stop is at Muziekgebouw Bimhuis, where line 26 runs. In the previous exercise this can be found when looking up the whole row from the coordinates from the closest tram line. 
 
 Since there were no data sets online about the bus stops, the closest stop was found in Google Maps. It is clear that the closest stop is at Kattenburgerstraat. 
 
-img src="OV1.jpg" alt="OV1">
+img src="OV1.png" alt="OV1">
 
 *Graph 4: Tram line 26, closest tram line near the starting point (marked in green)(GVB, 2023)*
 
-img src="OV2.jpg" alt="OV2">
+img src="OV2.png" alt="OV2">
 
 *Graph 5: Bus line 43, closest bus line near the starting point (marked in green)(GVB, 2023)*
 
@@ -174,11 +170,11 @@ For the finish point the closest tram stop is at Keizersgracht, where line 4 run
 
 The closest bus stop and its line is again found in Google Maps. The closest bus stop to finish line is at Beukenplein, where line 37 runs. This is quite far away, because there are no busses in the city center during the day, since there are tram lines everywhere. 
 
-img src="OV3.jpg" alt="OV3">
+img src="OV3.png" alt="OV3">
 
 *Graph 6: Tram line 4, tram line near the finish point (marked in red)(GVB, 2023)*
 
-img src="OV4.jpg" alt="OV4">
+img src="OV4.png" alt="OV4">
 
 *Graph 7: Bus line 37, closest bus line near the finish point (marked in red)(GVB, 2023)*
 
@@ -282,7 +278,7 @@ Restaurant or Cafe: Soenda Kelapa, Location: (52.3630054, 4.8987669)
 Restaurant or Cafe: Kramer, Location: (52.3654467, 4.8926577) 
 Restaurant or Cafe: Bollywood Indian Restaurant, Location: (52.3639694, 4.8844033) 
 Restaurant or Cafe: Puri Mas Indonesisch Restaurant, Location: (52.3641036, 4.8845382) 
-And many more ...
+And many, many more ...
 
 
 
