@@ -123,11 +123,11 @@ Wall, M. (2018, October 8). How Amsterdam’s canal boats are going electric—A
 
 
 
-
+---
 > What do Winston Churchill, the Beatles and Nelson Mandela have in common?  
 > They have all been on a canal cruise through the Amsterdam canals!
 
-
+---
 Go to Assignment 1: [Water]({{site.baseurl}}/assignment-1)  
 Go to Assignment 3: [Housing]({{site.baseurl}}/assignment-3)  
 Go to Assignment 4: [Transport]({{site.baseurl}}/assignment-4)
