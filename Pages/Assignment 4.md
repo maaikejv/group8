@@ -287,7 +287,7 @@ GVB. (n.d.-a). Onze bussen. Over GVB. Retrieved 16 October 2023, from https://ov
 
 GVB. (n.d.-b). Onze trams. Over GVB. Retrieved 16 October 2023, from https://over.gvb.nl/ov-in-amsterdam/voer-en-vaartuigen/tram-in-cijfers/  
 
-GVB. (2023). Haltes | GVB. https://reisinfo.gvb.nl/nl/haltes 
+GVB. (2023). Haltes. GVB. https://reisinfo.gvb.nl/nl/haltes 
 
 OpenStreetMap. (2023). OpenStreetMap. OpenStreetMap. Retrieved 16 October 2023, from https://www.openstreetmap.org/  
 
