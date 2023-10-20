@@ -24,8 +24,8 @@ Much of the transport work over water takes place with deck barges that are move
 #### Peak times for canal boats 
 Most canal boats sail the whole afternoon and evening till 20.00. The busiest days are during the weekend. In the Grachtenmonitor 2022, you can see that saturday stands out, but there is not that much of a difference during the days (Gemeente Amsterdam, 2022). 
 
-<img src="C:\Users\bente\Documents\MADE\Data 1\images\Peakhours1.png" alt="Description of the image">
-<img src="C:\Users\bente\Documents\MADE\Data 1\images\Peakhours2.png" alt="Description of the image">
+<img src="Peakhours1.png" alt="Description of the image">
+<img src="Peakhours2.png" alt="Description of the image">
 
 
 > What do Winston Churchill, the Beatles and Nelson Mandela have in common?  
