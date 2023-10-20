@@ -78,7 +78,7 @@ According to this calculation, Amsterdam will earn €3.152.784 out of tourism t
 
 
 **Number of AirBnBs per neighbourhood in Amsterdam**  
-<img src = "AirBnBs.png" alt = "AirBnBs">
+<img src = "AirBnBs.png" alt = "AirBnbs">
 
 The following code is used to create the graph above:
 ```
