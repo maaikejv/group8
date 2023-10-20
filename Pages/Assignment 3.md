@@ -170,6 +170,8 @@ ams_df['license'].nunique()
 7288 different licenses are used 
 ```
 
+### References
+Gemeente Amsterdam. (n.d.). Toeristenbelasting [Webpagina]. Amsterdam.nl; Gemeente Amsterdam. Retrieved 17 October 2023, from https://www.amsterdam.nl/veelgevraagd/toeristenbelasting-2c7c2 
 
 ---
 Go to Assignment 1: [Water]({{site.baseurl}}/assignment-1)  
